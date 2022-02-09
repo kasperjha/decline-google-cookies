@@ -2,7 +2,7 @@
 // @name         Decline-Google-Cookies
 // @namespace    http://tampermonkey.net/
 // @source       https://github.com/kakka0903/decline-google-cookies
-// @version      0.1
+// @version      0.2
 // @description  Auto-decline google consent cookies. More on github.
 // @author       Kasper J. Hopen Alfarnes
 // @match        https://consent.google.com/*
