@@ -1,13 +1,16 @@
 // ==UserScript==
-// @name         Decline google cookies
+// @name         Decline-Google-Cookies
 // @namespace    http://tampermonkey.net/
+// @source       https://github.com/kakka0903/decline-google-cookies
 // @version      0.1
-// @description  Auto-decline google consent cookies
-// @author       You
+// @description  Auto-decline google consent cookies. More on github.
+// @author       Kasper J. Hopen Alfarnes
 // @match        https://consent.google.com/*
-// @match        https://consent.youtube.com/*
 // @match        https://*.google.com/*
 // @match        https://google.com/*
+// @match        https://consent.youtube.com/*
+// @match        https://www.youtube.com/*
+// @match        https://youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=chrome.com
 // @grant        none
 // ==/UserScript==
